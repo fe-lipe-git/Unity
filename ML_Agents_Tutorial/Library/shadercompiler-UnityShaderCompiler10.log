@@ -1,0 +1,108 @@
+Base path: '/media/felipe/DATA/Unity_Linux/2019.4.20f1/Editor/Data', plugins path '/media/felipe/DATA/Unity_Linux/2019.4.20f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12109 outsize=4122 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3327 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3327 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11985 outsize=3366 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11985 outsize=6269 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11985 outsize=6343 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18301 outsize=7565 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18301 outsize=8953 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18301 outsize=14392 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=66874 outsize=26768 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=66874 outsize=3213 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=66874 outsize=7704 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=66874 outsize=3247 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=12771 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=9389 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6846 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=5957 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6568 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=8089 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6195 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=8067 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=8123 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=8750 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6326 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6537 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=66874 outsize=6470 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=72903 outsize=13209 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=1944 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=1510 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=2071 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=1929 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=2963 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=3048 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=3015 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=2962 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=34089 outsize=3063 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=3416 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=3445 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=3361 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=2397 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=3421 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5678 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=6028 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=6106 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=5479 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=34089 outsize=6702 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79248 outsize=24414 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=79248 outsize=70915 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=79248 outsize=90437 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4442 outsize=5885 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1900 outsize=11382 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1302 outsize=3069 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
